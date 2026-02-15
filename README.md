@@ -7,9 +7,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>Backend-focused developer building clean, scalable systems.
-Clarity.  Security.  Architecture. 
-Real problem-solving over hype.
+    <p>Python developer here! I can build any program ranging from Telegram bots to Websites using tools like aiogram, Django Jinja / Rest-Framework. I also excel at working with Docker, Redis, Celery, PostgreSQL and others!  
 </p>
 </div>
 
