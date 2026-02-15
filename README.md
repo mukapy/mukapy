@@ -3,7 +3,7 @@
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=5000&color=33FF33&center=true&vCenter=true&width=435&lines=Welcome+to+Wincame's+Github;" alt="Typing SVG"/></h1>
 </div>
 
-<br><br>
+<br>
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm a Backend Engineer specializing in scalable system design and production infrastructure. My technical scope covers backend architecture, distributed services, containerized environments, and data systems.
