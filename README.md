@@ -2,6 +2,6 @@
 
 <div align="center">
     <p>
-        <img src="https://giphy.com/explore/programming-language" alt="Descriptive Text for the GIF" />
+        <img src="giphy.com/explore/programming-language" alt="Descriptive Text for the GIF" />
     </p>
 </div>
