@@ -22,11 +22,11 @@ I enjoy working on the architecture side of things — making sure everything fi
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
    
-    <a href="https://t.me/pycoder06">
+   <a href="https://t.me/pycoder06">
       <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
   
-    <a href="https://github.com/mukapy">
+   <a href="https://github.com/mukapy">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </div>
