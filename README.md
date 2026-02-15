@@ -6,7 +6,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
     <p>I'm a Backend Engineer specializing in scalable system design and production infrastructure. My technical scope covers backend architecture, distributed services, containerized environments, and data systems.
 </p>
 </div>
@@ -15,7 +15,7 @@
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
-  < <a href="https://www.linkedin.com/in/mukhammadamin-gulamov-38aa783b0/">
+  <a href="https://www.linkedin.com/in/mukhammadamin-gulamov-38aa783b0/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 
@@ -31,8 +31,8 @@
 <div align="center">
   <h2>🚀 Github Commits</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/mukapy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/mukapy/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+  <img src="https://raw.githubusercontent.com/mukapy/mukapy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/mukapy/mukapy/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 My Skills</h2>
