@@ -5,7 +5,6 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
     <p>I'm a Backend Engineer specializing in scalable system design and production infrastructure. My technical scope covers backend architecture, distributed services, containerized environments, and data systems.
 </p>
 </div>
