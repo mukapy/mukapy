@@ -14,6 +14,12 @@ I enjoy working on the architecture side of things — making sure everything fi
 <br><br> <!-- adds space before the next section -->
 
 <h3>🌐 Connect With Me</h3>
+<p>Backend dev here! Whether it’s a project, collaboration, or just a tech chat, feel free to reach out — I’m always open to interesting opportunities and ideas.</p>
+
+
+<a href="mailto:mukhammadamingulamov@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin:5px"/>
+</a>
 
 <a href="https://www.linkedin.com/in/mukhammadamin-gulamov-38aa783b0/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px"/>
