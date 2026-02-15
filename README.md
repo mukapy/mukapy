@@ -17,6 +17,7 @@ I enjoy working on the architecture side of things — making sure everything fi
 
 
   <h3>🌐 Connect With Me</h3>
+  <p></p>
 
   <a href="https://www.linkedin.com/in/mukhammadamin-gulamov-38aa783b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
