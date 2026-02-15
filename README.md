@@ -17,7 +17,7 @@ I enjoy working on the architecture side of things — making sure everything fi
 ---
  <p>Backend dev here! Whether it’s a project, collaboration, or a tech chat, feel free to reach out — I’m always open to interesting opportunities and ideas.</p>
 
-  <div style="display:flex; justify-content:center; gap:10px; margin-top:10px;">
+  <div style="display:flex; justify-content:center; gap:20px; margin-top:10px;">
     <a href="https://www.linkedin.com/in/mukhammadamin-gulamov-38aa783b0/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
