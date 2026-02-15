@@ -8,7 +8,7 @@
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>Backend-focused developer building clean, scalable systems.
-Clarity. Security. Architecture.
+Clarity.  Security.  Architecture. 
 Real problem-solving over hype.
 </p>
 </div>
