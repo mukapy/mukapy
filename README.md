@@ -13,11 +13,8 @@ I enjoy working on the architecture side of things — making sure everything fi
 
 <br><br> <!-- adds space before the next section -->
 
-###🌐 Connect With Me
+🌐 Connect With Me
 ---
-<hr style="width:60px; border:0; height:2px; background-color:#9CF73D; margin:5px auto 15px auto;">
-
-
   <p>Backend dev here! Whether it’s a project, collaboration, or a tech chat, feel free to reach out — I’m always open to interesting opportunities and ideas.</p>
 
 
