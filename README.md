@@ -17,7 +17,7 @@ I enjoy working on the architecture side of things — making sure everything fi
 <p>Backend dev here! Whether it’s a project, collaboration, or just a tech chat, feel free to reach out — I’m always open to interesting opportunities and ideas.</p>
 
 
-<a href="mailto:mukhammadamingulamov@gmail.com">
+<a href="mukhammadamingulamov@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin:5px"/>
 </a>
 
