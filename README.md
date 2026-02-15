@@ -8,13 +8,8 @@
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>Backend-focused developer building clean, scalable systems.
-
-I care about:
-- Writing code that actually makes sense
-- Security and solid architecture
-- Real problem-solving, not hype
-
-Always learning. Always improving.
+Clarity. Security. Architecture.
+Real problem-solving over hype.
 </p>
 </div>
 
