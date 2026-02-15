@@ -13,7 +13,8 @@ I enjoy working on the architecture side of things — making sure everything fi
 
 <br><br> <!-- adds space before the next section -->
 
-<h3>🌐 Connect With Me</h3>
+###🌐 Connect With Me
+---
 <hr style="width:60px; border:0; height:2px; background-color:#9CF73D; margin:5px auto 15px auto;">
 
 
