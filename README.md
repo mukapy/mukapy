@@ -10,6 +10,8 @@
 </p>
 </div>
 
+<br><br>
+
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
@@ -26,6 +28,8 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
 </div>
+
+<br><br>
 
 <h2 align="center" class="section-heading">💻 My Skills</h2>
 <p>I have a lot of experience with the following tools as a developer. Here are my fundamental skills:</p>
@@ -44,6 +48,8 @@
   <img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </div>
 
+<br><br>
+
 <h2 align="center" class="section-heading">💻 Other Tools</h2>
 <p>I have also worked with other programming languages and tools such as:</p>
 <div align="center">
@@ -55,7 +61,7 @@
 </div>
 
 
-
+<br>
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
