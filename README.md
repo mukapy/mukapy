@@ -11,26 +11,26 @@ Backend developer focused on building systems that are reliable, scalable, and t
 I enjoy working on the architecture side of things — making sure everything fits together the right way.
 </p>
 
-<br><br> <!-- adds space before the next section -->
+<br><br>
 
 🌐 Connect With Me
 ---
  <p>Backend dev here! Whether it’s a project, collaboration, or a tech chat, feel free to reach out — I’m always open to interesting opportunities and ideas.</p>
 
-  <div style="display:flex; justify-content:center; gap:50px; margin-top:10px;">
+  <div style="display:flex; justify-content:center; gap:50px; margin-top:20px; margin-bottom:10px;">
     <a href="https://www.linkedin.com/in/mukhammadamin-gulamov-38aa783b0/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
    
-   <a href="https://t.me/pycoder06">
+    <a href="https://t.me/pycoder06">
       <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
   
-  <a href="https://github.com/mukapy">
+    <a href="https://github.com/mukapy">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </div>
 
-  <p style="margin-top:10px;">✉️ mukhammadamingulamov@gmail.com</p>
+  <p style="margin-top:15px;">✉️ mukhammadamingulamov@gmail.com</p>
 
 </div>
