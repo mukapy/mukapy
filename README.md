@@ -12,25 +12,6 @@
 
 <br><br>
 
-<div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/mukhammadamin-gulamov-38aa783b0/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-
-  <a href="https://t.me/pycoder06">
-      <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-
-  <a href="https://github.com/mukapy">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-</div>
-
-<br><br>
-
 <h2 align="center" class="section-heading">💻 My Skills</h2>
 <p>I have a lot of experience with the following tools as a developer. Here are my fundamental skills:</p>
 <div align="center">
@@ -80,4 +61,23 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukapy&theme=github_dark" alt="Zane's GitHub Stats"/></td>
     </tr>
  </table>
+</div>
+
+<br><br>
+
+<div align="center">
+<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<p> Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mukhammadamin-gulamov-38aa783b0/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+
+  <a href="https://t.me/pycoder06">
+      <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+
+  <a href="https://github.com/mukapy">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
 </div>
